@@ -19,11 +19,9 @@ This project is to provide stock market analysis over last few yeas across multi
 
 
 ### Challenges and Difficulties Encountered
-* The orginal data table did not have the data columns needed to derive the resultset and hence had to convert the Launch Date, Category & Subcategory columns. 
-* 
- 
+* As a programmer, we look for the What, When, Why, Where and Who as part of the requirements. This exercise was very challenging as the HOW was defined. Especially it took me several debugging activities to determine the logical error in step 3d. As I was using a nested if to write the logic and following the direction in the 3d was setting a wrong index and resulting in wrong output. Since the suedo code was not very clear on to avoid nested if and step 2a & 2b asked to use For Loop was miss guiding the workflow and logical flow to be implemented.   
 
 ## Summary
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-  - Total campaign responses are 1369 and 24 are still in progress/live which can fall into one of the outcome categories of Success, Failed or Cancelled for the Theater category
+  - Our returns are based on closing prices on the first and last market days of the year. Based on this data we may show postive or negative returns for a full year, however we would not know weekly/bi-weekly, monthly or quaterly trends. Just by looking at EOY returns will allow for portfolio changes yearly whereby missing out on some potential profits/limiting losses during shorter frequencies.
+  - Having availability of hourly trends will also help in some profit taking during the day or potentailly readjusting portfolios
   
