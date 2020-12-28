@@ -24,10 +24,15 @@ This project provides stock market analysis over last few yeas across multiple s
 
 <!-- float: left; margin-right: 10px; -->
 ### Snapshots of Output Results 
-<p>
-  <img src="/Resources/2017%20AllstocksAnalysisRefactor.png" width="500" />
-  <img src="/Resources/2018%20AllstocksAnalysisRefactor.png" width="500" /> 
-</p>
+<Table>
+  <tr>
+     <td> </td>
+  </tr>
+  <tr>   
+    <td valign="top"> <img src="/Resources/2017%20AllstocksAnalysisRefactor.png" width="500" /> </td>
+    <td valign="top"> <img src="/Resources/2018%20AllstocksAnalysisRefactor.png" width="500" /> </td>
+  </tr?     
+</table>
                                                                                             
                                                                                                                                                                          
 
