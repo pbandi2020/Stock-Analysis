@@ -18,7 +18,7 @@ This project provides stock market analysis over last few yeas across multiple s
 <!--  style="float: left; margin-right: 10px; border-width: 5px; border-color: Black; width: 48px; height: 48px;"/> -->
 
 <img src=/Resources/RuntimeComparisonTable.png
-     alt="Runtime Analysis Report" width = "500" height="600" style="vertical-align:top"/>
+     alt="Runtime Analysis Report" style="border:5px solid black"/>
   <!--   style="width: 48px; height: 48px;"/> -->
 
 <!-- float: left; margin-right: 10px; -->
