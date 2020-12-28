@@ -18,11 +18,11 @@ This project provides stock market analysis over last few yeas across multiple s
 
 <img src=/Resources/RuntimeComparisonTable.png alt="Runtime Analysis Report"/>
  
-### Snapshots of most effecient Result 
+### Snapshots of most effecient result 
 
  <table>
  <tr>   
-    <td align="center" style=bold> 2017 VBA_Challege output </td>
+    <td align="center" font="bold"> 2017 VBA_Challege output </td>
     <td align="center"> 2018 VBA_Challege output</td>
   </tr> 
   <tr>   
@@ -30,7 +30,8 @@ This project provides stock market analysis over last few yeas across multiple s
     <td valign="top"> <img src="/Resources/2018%20AllstocksAnalysisRefactor.png" width="500" /> </td>
   </tr>     
 </Table> 
-### Snapshots of other comparison Result
+
+### Snapshots of other comparison result
 
 <table>
  <tr>   
