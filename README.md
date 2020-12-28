@@ -19,12 +19,12 @@ This project provides stock market analysis over last few yeas across multiple s
 <img src=/Resources/RuntimeComparisonTable.png alt="Runtime Analysis Report"/>
  
 ### Snapshots of Output Results 
-<Table>
-  <tr>
-     <td align="center" style="Bold"> Output Results for Validation  </td>
-  </tr>
- </table>
+
  <table>
+ <tr>   
+    <td align="enter"> 2017 AllstocksAnalysisRefactor output </td>
+    <td align="center"> 2018 AllstocksAnalysisRefactor output</td>
+  </tr> 
   <tr>   
     <td valign="top"> <img src="/Resources/2017%20AllstocksAnalysisRefactor.png" width="500" /> </td>
     <td valign="top"> <img src="/Resources/2018%20AllstocksAnalysisRefactor.png" width="500" /> </td>
