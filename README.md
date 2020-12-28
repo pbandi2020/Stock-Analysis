@@ -15,27 +15,21 @@ This project provides stock market analysis over last few yeas across multiple s
 * The below table of data provides multiple ways to acheive the end result. As much as we need to provide data accuracy, performance is also equally important. For diffrence in code logic, refer to the subroutine in the macro file. The table below lists each subroutine name. Every subroutine returns the same result set. the only diffrence is the runtime. Screen shots for each of the analysis is saved to resources folder and the file name should match the subroutine name.
 
 <!--![RunTime Comparison Report](/Resources/RuntimeComparisonTable.png) -->
-<!--  style="float: left; margin-right: 10px; border-width: 5px; border-color: Black; width: 48px; height: 48px;"/> -->
 
 <img src=/Resources/RuntimeComparisonTable.png
      alt="Runtime Analysis Report"/>
-  <!--   style="width: 48px; height: 48px;"/> -->
-  <!-- style="vertical-align:middle;margin:50px 0px;border:5px solid black"> -->
-
-<!-- float: left; margin-right: 10px; -->
+ 
 ### Snapshots of Output Results 
 <Table>
   <tr>
-     <td> </td>
+     <td align="center"> Output Results for Validation </td>
   </tr>
   <tr>   
     <td valign="top"> <img src="/Resources/2017%20AllstocksAnalysisRefactor.png" width="500" /> </td>
     <td valign="top"> <img src="/Resources/2018%20AllstocksAnalysisRefactor.png" width="500" /> </td>
   </tr?     
-</table>
-                                                                                            
+</table>                                                                                 
                                                                                                                                                                          
-
 ### Challenges and Difficulties Encountered
 * As a programmer, we look for  What, When, Why, Where and Who as part of the requirements. This exercise was very challenging as the HOW was defined. Especially it took  several debugging activities to determine logical error in step 3d. As I was using a "nested if" to write the logic and following the directions in step 3d was resulting in a wrong index and wrong output. Since the pseudo-code was not very clear and step 2a & 2b asked to use "nested For Loop" was misguiding the logical flow.   
 
