@@ -24,9 +24,9 @@ This project provides stock market analysis over last few yeas across multiple s
 
 <!-- float: left; margin-right: 10px; -->
 ### Snapshots of Output Results 
-<p float="left">
-  <img src="/Resources/2017%20AllstocksAnalysisRefactor.png" width="100" />
-  <img src="/Resources/2018%20AllstocksAnalysisRefactor.png" width="100" /> 
+<p>
+  <img src="/Resources/2017%20AllstocksAnalysisRefactor.png" width="500" />
+  <img src="/Resources/2018%20AllstocksAnalysisRefactor.png" width="500" /> 
 </p>
                                                                                             
                                                                                                                                                                          
