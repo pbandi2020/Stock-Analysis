@@ -13,9 +13,8 @@ This project provides stock market analysis over last few yeas across multiple s
 # Results
 ### Performance Analysis based on programming logic implemented
 * The below table of data provides multiple ways to acheive the end result. As much as we need to provide data accuracy, performance is also equally important. For diffrence in code logic, refer to the subroutine in the macro file. The table below lists each subroutine name. Every subroutine returns the same result set. the only diffrence is the runtime. Screen shots for each of the analysis is saved to resources folder and the file name should match the subroutine name.
-![OutcomesBasedOnLaunchDateANDCategory](/Resources/Theater_Outcome_Vs_Launch.png)
 
-![GraphVsDataviewAnalysis](/Resources/LaunchDate_Analysis.png)
+![RunTime Comparison Report](/Resources/RuntimeComparisonTable.png)
 
 
 ### Challenges and Difficulties Encountered
