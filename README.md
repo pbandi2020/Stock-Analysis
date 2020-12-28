@@ -38,7 +38,7 @@ This project provides stock market analysis over last few yeas across multiple s
     <td align="center"> Alternate Output V2 </td>
   </tr> 
   <tr>   
-    <td valign="top"> <img src="/Resources/2018%20AllStocksAnalysisRefactorV2.png" width="500" /> </td>
+    <td valign="top"> <img src="/Resources/2018AllStocksAnalysisRefactorV2.png" width="500" /> </td>
     <td valign="top"> <img src="/Resources/2018%20AllstocksAnalysisRefactor.png" width="500" /> </td>
   </tr>     
 </Table> 
