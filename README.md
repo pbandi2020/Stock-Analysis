@@ -19,8 +19,7 @@ This project provides stock market analysis over last few yeas across multiple s
 .border {  border: 15px solid black; } 
 <img src=/Resources/RuntimeComparisonTable.png
      alt="Runtime Analysis Report"
-     style="float: left; margin-right: 10px; width: 48px; height: 48px;"
-     Class=".border"/>
+     style="float: left; margin-right: 10px; width: 48px; height: 48px; Class=.border;"/>
 
 ### Challenges and Difficulties Encountered
 * As a programmer, we look for  What, When, Why, Where and Who as part of the requirements. This exercise was very challenging as the HOW was defined. Especially it took  several debugging activities to determine the logical error in step 3d. As I was using a "nested if" to write the logic and following the directions in step 3d was resulting in a wrong index and wrong output. Since the pseudo-code was not very clear and step 2a & 2b asked to use "nested For Loop" was misguiding the logical flow.   
