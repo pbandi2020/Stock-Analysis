@@ -18,7 +18,8 @@ This project provides stock market analysis over last few yeas across multiple s
 
 <img src=/Resources/RuntimeComparisonTable.png alt="Runtime Analysis Report"/>
  
-### Snapshots of most effecient result 
+### VBA Challenge results - Most efficient refectored code
+* As discussed earlier, a final result can be achived by many diffrent coding practice. The result achieved using an array for the ticker and using a single loop was the most efficient. Howevver, this logic is with the assumption the dataset is sorted by ticker column and closing date. The key to data analysis is sorting the dataset. This is step we did not perrform as the 2017 & 2018 dataset provided was sorted and we knew that we had only 12 stocks to process for end results. 
 
  <table>
  <tr>   
@@ -31,7 +32,8 @@ This project provides stock market analysis over last few yeas across multiple s
   </tr>     
 </Table> 
 
-### Snapshots of other comparison result
+### Comparing the VBA Challenge results to two other alternate logic
+* One result below uses nested loop logic which and the other is very close to final refactored code other than the fact the output data is build as part of the intial "For Loop"
 
 <table>
  <tr>   
