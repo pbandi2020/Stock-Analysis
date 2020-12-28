@@ -23,8 +23,8 @@ This project provides stock market analysis over last few yeas across multiple s
 
  <table>
  <tr>   
-    <td align="center" style="font-weight:bold"> 2017 VBA_Challege output </td>
-    <td align="center" style="font-weight:bold"> 2018 VBA_Challege output</td>
+    <td align="center"; style="font-weight:bold"> 2017 VBA_Challege output </td>
+    <td align="center"; style="font-weight:bold"> 2018 VBA_Challege output</td>
   </tr> 
   <tr>   
     <td valign="top"> <img src="/Resources/2017%20AllstocksAnalysisRefactor.png" width="500" /> </td>
@@ -37,8 +37,8 @@ This project provides stock market analysis over last few yeas across multiple s
 
 <table>
  <tr>   
-    <td align="center" style="font-weight:bold"> AllStocksAnalysisRefactor V2 </td>
-    <td align="center" style="font-weight:bold"> AllStocksAnalysisRefactor V1 </td>
+    <td align="center"; style="font-weight:bold"> AllStocksAnalysisRefactor V2 </td>
+    <td align="center"; style="font-weight:bold"> AllStocksAnalysisRefactor V1 </td>
   </tr> 
   <tr>   
     <td valign="top"> <img src="/Resources/2018AllStocksAnalysisRefactorV2.png" width="500" /> </td>
