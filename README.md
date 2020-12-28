@@ -23,8 +23,12 @@ This project provides stock market analysis over last few yeas across multiple s
   <!-- style="vertical-align:middle;margin:50px 0px;border:5px solid black"> -->
 
 <!-- float: left; margin-right: 10px; -->
-                                                              ** Snapshots of Output Results **                                                                                
-![2018 AllstocksAnalysisRefactor](/Resources/2018%20AllstocksAnalysisRefactor.png)                                                                                            
+### Snapshots of Output Results 
+<p float="left">
+  <img src="/Resources/2017%20AllstocksAnalysisRefactor.png" width="100" />
+  <img src="/Resources/2018%20AllstocksAnalysisRefactor.png" width="100" /> 
+</p>
+                                                                                            
                                                                                                                                                                          
 
 ### Challenges and Difficulties Encountered
