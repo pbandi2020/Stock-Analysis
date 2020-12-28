@@ -21,8 +21,10 @@ This project provides stock market analysis over last few yeas across multiple s
 ### Snapshots of Output Results 
 <Table>
   <tr>
-     <td align="middle" style="Bold"> Output Results for Validation  </td>
+     <td align="center" style="Bold"> Output Results for Validation  </td>
   </tr>
+ </table>
+ <table>
   <tr>   
     <td valign="top"> <img src="/Resources/2017%20AllstocksAnalysisRefactor.png" width="500" /> </td>
     <td valign="top"> <img src="/Resources/2018%20AllstocksAnalysisRefactor.png" width="500" /> </td>
