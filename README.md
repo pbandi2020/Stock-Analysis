@@ -16,12 +16,12 @@ This project provides stock market analysis over last few yeas across multiple s
 
 <!--![RunTime Comparison Report](/Resources/RuntimeComparisonTable.png) -->
 
-<img src=/Resources/RuntimeComparisonTable.png; alt="Runtime Analysis Report"/>
+<img src=/Resources/RuntimeComparisonTable.png alt="Runtime Analysis Report"/>
  
 ### Snapshots of Output Results 
 <Table>
   <tr>
-     <td align="center"> Output Results for Validation </td>
+     <td align="middle" style="Bold"> Output Results for Validation  </td>
   </tr>
   <tr>   
     <td valign="top"> <img src="/Resources/2017%20AllstocksAnalysisRefactor.png" width="500" /> </td>
