@@ -12,7 +12,7 @@ This project provides stock market analysis over last few yeas across multiple s
 
 # Results
 ### Performance Analysis based on programming logic implemented
-* The below table provided a comparison report and diffrence in logical flow if the code. As much as we need to provide data accuracy, performance is also equally important. For diffrence in code logic, refer to the subroutine in the macro file. The table below lists each subroutine name. Every subroutine returns the same result set. the only diffrence is the runtime. Screen shots for each of the analysis is saved to resources folder and the file name should match the subroutine name.
+* The below table provided a comparison report and diffrence in logical flow in the code. As much as we need to provide data accuracy, performance is also equally important. For diffrence in code logic, refer to the subroutine in the macro file. The table below lists each subroutine name. Every subroutine returns the same result set. the only diffrence is the runtime. Screen shots for each of the analysis is saved to resources folder and the file name should match the subroutine name.
 
 <!--![RunTime Comparison Report](/Resources/RuntimeComparisonTable.png) -->
 
